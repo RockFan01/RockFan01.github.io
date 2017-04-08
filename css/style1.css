@@ -1,0 +1,22 @@
+body{
+    background: url('http://wallpaperswide.com/download/skillet-wallpaper-1440x960.jpg') repeat-y #2F4F4F center top;
+height:3450px;
+}
+
+
+.block {
+background-color:aliceblue;
+    width: 90%;
+     margin-top: 20px;
+    margin-left: 5%;
+    padding: 5%;
+    border-radius: 10px;
+    border: 1px solid silver;
+    font-size: 1.1em;
+    color: black;
+}
+
+.str {
+     margin-left: 1%;
+    color: darkslategray;
+}

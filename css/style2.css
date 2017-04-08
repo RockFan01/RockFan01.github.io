@@ -1,0 +1,22 @@
+body{
+    background: url('http://www.claytonhotelballsbridge.com/wp-content/uploads/2016/05/hotel-near-nickleback-concert-dublin.jpg') repeat-y #2F4F4F center top;
+height:3100px;
+}
+
+
+.block {
+background-color:aliceblue;
+    width: 90%;
+     margin-top: 20px;
+    margin-left: 5%;
+    padding: 5%;
+    border-radius: 10px;
+    border: 1px solid silver;
+    font-size: 1.1em;
+    color: black;
+}
+
+.str {
+     margin-left: 1%;
+    color: darkslategray;
+}
